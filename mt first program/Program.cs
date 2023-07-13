@@ -6,7 +6,8 @@ namespace myFirst
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello World");
+            Console.WriteLine("hello Worldsss heelo");
+            Console.WriteLine("second hello");
             Console.ReadLine();
         }
     }
