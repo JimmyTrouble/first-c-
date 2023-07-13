@@ -1,0 +1,15 @@
+/Users/liamturner/Projects/mt first program/mt first program/bin/Debug/net7.0/mt first program
+/Users/liamturner/Projects/mt first program/mt first program/bin/Debug/net7.0/mt first program.deps.json
+/Users/liamturner/Projects/mt first program/mt first program/bin/Debug/net7.0/mt first program.runtimeconfig.json
+/Users/liamturner/Projects/mt first program/mt first program/bin/Debug/net7.0/mt first program.dll
+/Users/liamturner/Projects/mt first program/mt first program/bin/Debug/net7.0/mt first program.pdb
+/Users/liamturner/Projects/mt first program/mt first program/obj/Debug/net7.0/mt first program.csproj.AssemblyReference.cache
+/Users/liamturner/Projects/mt first program/mt first program/obj/Debug/net7.0/mt first program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liamturner/Projects/mt first program/mt first program/obj/Debug/net7.0/mt first program.AssemblyInfoInputs.cache
+/Users/liamturner/Projects/mt first program/mt first program/obj/Debug/net7.0/mt first program.AssemblyInfo.cs
+/Users/liamturner/Projects/mt first program/mt first program/obj/Debug/net7.0/mt first program.csproj.CoreCompileInputs.cache
+/Users/liamturner/Projects/mt first program/mt first program/obj/Debug/net7.0/mt first program.dll
+/Users/liamturner/Projects/mt first program/mt first program/obj/Debug/net7.0/refint/mt first program.dll
+/Users/liamturner/Projects/mt first program/mt first program/obj/Debug/net7.0/mt first program.pdb
+/Users/liamturner/Projects/mt first program/mt first program/obj/Debug/net7.0/mt first program.genruntimeconfig.cache
+/Users/liamturner/Projects/mt first program/mt first program/obj/Debug/net7.0/ref/mt first program.dll
